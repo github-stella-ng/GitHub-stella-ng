@@ -1,3 +1,20 @@
+### About me 🙋🏼‍♀️
+<br>
+Hi there! I am Thi Ngoc Trinh Nguyen (preferral Stella), currently on a journey to becoming a Business Analyst.
+
+<br>
+_____________
+<br>
+My ultimate goal is to establish myself as a highly skilled Business Analyst, capable of making a significant contribution to the success of organizations. I'm committed to continuously honing my analytical and communication skills to stay ahead of the industry's evolving needs. By actively seeking out challenging projects, I aim to leverage my creativity and problem-solving abilities to deliver valuable solutions that optimize processes and drive business growth.
+
+### Connect me 💌: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stella-trinh-nguyen/) 
+
+
+
+
+
+
 <h2 align="center"> Technologies and Tools </h2>
 <br>
 
