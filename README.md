@@ -8,14 +8,14 @@ _____________
 My ultimate goal is to establish myself as a highly skilled Business Analyst, capable of making a significant contribution to the success of organizations. I'm committed to continuously honing my analytical and communication skills to stay ahead of the industry's evolving needs. By actively seeking out challenging projects, I aim to leverage my creativity and problem-solving abilities to deliver valuable solutions that optimize processes and drive business growth.
 
 ### Connect me 💌: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stella-trinh-nguyen/) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stella-trinh-nguyen/)
 
 
 
 
 
 
-<h2 align="center"> Technologies and Tools </h2>
+<h2 align="center"> Technologies and Tools 🖥 </h2>
 <br>
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
